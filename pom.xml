@@ -6,8 +6,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.ibs</groupId>
-    <artifactId>camel-quarkus-app-b</artifactId>
+    <groupId>org.acme</groupId>
+    <artifactId>code-with-quarkus</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
     <properties>
