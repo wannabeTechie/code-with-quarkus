@@ -1,3 +1,4 @@
+
 package org.ibs.routes;
 
 
@@ -17,3 +18,4 @@ public class ActiveMqReceiverRouter extends RouteBuilder {
                 .to("log:Received-message from ActiveMq");
     }
 }
+
